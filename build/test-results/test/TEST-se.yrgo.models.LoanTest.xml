@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.models.LoanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-02T14:40:39" hostname="LINNEAS_SWIFT" time="0.01">
+  <properties/>
+  <testcase name="testGetDueDate()" classname="se.yrgo.models.LoanTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
